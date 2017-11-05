@@ -1,0 +1,63 @@
+{
+  "_from": "aemsync",
+  "_id": "aemsync@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-Vb5JjiQ4cSeuFNfCC7Epv1Fy2NWlL9Zn9wTUtyjrysc8OgnN61Xvk4XUWnCbK2hgf6we1zzGiML+NkVzb4Bnpg==",
+  "_location": "/aemsync",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "aemsync",
+    "name": "aemsync",
+    "escapedName": "aemsync",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/aemsync/-/aemsync-2.0.0.tgz",
+  "_shasum": "bc03dd29ec2aeae6d7226bba601883af75c3463c",
+  "_spec": "aemsync",
+  "_where": "/Users/admin",
+  "author": {
+    "name": "Michal Kochel",
+    "email": "gavoja@gmail.com"
+  },
+  "bin": {
+    "aemsync": "./bin/aemsync"
+  },
+  "bugs": {
+    "url": "https://github.com/gavoja/aemsync/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "archiver": "^0.21.0",
+    "chalk": "^1.1.3",
+    "form-data": "^0.2.0",
+    "graceful-fs": "^4.1.11",
+    "micromatch": "^3.0.3",
+    "minimist": "^1.2.0",
+    "simple-watcher": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "Adobe AEM Synchronization Tool",
+  "false": {},
+  "homepage": "https://github.com/gavoja/aemsync",
+  "keywords": [
+    "AEM",
+    "CQ",
+    "Sling",
+    "Synchronization"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "aemsync",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavoja/aemsync.git"
+  },
+  "version": "2.0.0"
+}
